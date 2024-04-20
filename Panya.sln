@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panya", "Panya\Panya.csproj", "{5E0E8D9A-9B7C-4549-82A6-3FFCEB9B3716}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vuepanya", "VuePanya\vuepanya.esproj", "{D3AA0EA4-B5C8-4730-A730-672AF07DD5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0E8D9A-9B7C-4549-82A6-3FFCEB9B3716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0E8D9A-9B7C-4549-82A6-3FFCEB9B3716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0E8D9A-9B7C-4549-82A6-3FFCEB9B3716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0E8D9A-9B7C-4549-82A6-3FFCEB9B3716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AA0EA4-B5C8-4730-A730-672AF07DD5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AA0EA4-B5C8-4730-A730-672AF07DD5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AA0EA4-B5C8-4730-A730-672AF07DD5E3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3AA0EA4-B5C8-4730-A730-672AF07DD5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AA0EA4-B5C8-4730-A730-672AF07DD5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AA0EA4-B5C8-4730-A730-672AF07DD5E3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {785B1934-755D-48F3-8916-FFB72BBCB676}
+	EndGlobalSection
+EndGlobal
